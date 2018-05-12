@@ -1,0 +1,35 @@
+_repo: The-Giant-s-Robe_27507
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anstey, F.
+    alias: Guthrie, Thomas Anstey
+    birthdate: 1856
+    deathdate: 1934
+    gutenberg_agent_id: '6137'
+    url: http://www.gutenberg.org/2009/agents/6137
+    wikipedia: http://en.wikipedia.org/wiki/F._Anstey
+description: Cover; The Giant's Robe; Copyright; PREFACE; CONTENTS; CHAPTER I; AN
+  INTERCESSOR; CHAPTER II; A LAST WALK; CHAPTER III; GOOD-BYE; CHAPTER IV; MALAKOFF
+  TERRACE; CHAPTER V; NEIGHBOURS; CHAPTER VI; SO NEAR AND YET SO FAR; CHAPTER VII;
+  IN THE FOG; CHAPTER VIII; BAD NEWS; CHAPTER IX; A TURNING-POINT; CHAPTER X; REPENTE
+  TURPISSIMUS; CHAPTER XI; REVOLT; CHAPTER XII; LAUNCHED; CHAPTER XIII; A 'THORN AND
+  FLOWER PIECE.; CHAPTER XIV; IN THE SPRING; CHAPTER XV; HAROLD CAFFYN MAKES A DISCOVERY;
+  CHAPTER XVI; A CHANGE OF FRONT; CHAPTER XVII; IN WHICH MARK MAKES AN ENEMY AND RECOVERS
+  A FRIEND; CHAPTER XVIII.
+gutenberg_issued: '2008-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27507'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: The Giant's Robe
+url: http://www.gutenberg.org/ebooks/27507
